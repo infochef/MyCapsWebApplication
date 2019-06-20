@@ -1,0 +1,38 @@
+@charset "ISO-8859-1";
+body{
+	background-image: url("./keppel-2039122_960_720.jpg");
+}
+
+.table{
+	position: absolute;
+	top:170px;
+	left: 1000px;
+	background-color:rgba(245, 245, 245, 0.39);
+	border-radius: 30px;	
+}
+
+h4{
+	position: absolute;
+	top: 200px;
+	left: 390px;
+	color: #e5e5e5;
+	
+}
+	
+h1{
+	position: absolute;
+	top: 220px;
+	left: 360px;
+	color: white;
+	font-size: 40px;
+}
+
+p{
+    position: absolute;
+    top: 280px;
+    left: 270px;
+    color:rgba(255, 255, 255, 0.76);
+    font-size: 20px;    
+}
+ 
+ 
